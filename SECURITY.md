@@ -9,7 +9,7 @@ vv                                   vv
 | ------- | ------------------ |
 | 0.1.x   | :white_check_mark: |
 | 0.2.x   | :x:                |
-| 0.3.x   | :white_check_mark: |
+| 0.3.x   | :x: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
